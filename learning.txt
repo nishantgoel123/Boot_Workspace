@@ -1,0 +1,11 @@
+
+
+https://jsonplaceholder.typicode.com/
+
+ow collections;
+Usage
+.tollUsage.find()
+id" : ObjectId("58bd467a7ebea80f4c1ffb1c"), "_class" :
+age", "stationId" : "A1", "licencePlate" : "5622222", "
+
+

@@ -9,3 +9,18 @@ id" : ObjectId("58bd467a7ebea80f4c1ffb1c"), "_class" :
 age", "stationId" : "A1", "licencePlate" : "5622222", "
 
 
+
+http://localhost:8700/ui/#/dc1/services
+https://www.consul.io/downloads.html
+https://github.com/krishnamurthypradeep/springcloud-config/tree/master/station1
+
+Springcloud-tollusage-hystrix-clientms (file://ADMINI307/Springcloud-tollusage-hystrix-clientms)
+
+http://localhost:8884/hystrix/ 
+
+software -
+consul_0.7.5_windows_amd64 
+mongodb-win32-x86_64-2008plus-ssl-3.2.8-signed
+otp_win64_19.2
+rabbitmq-server-3.6.5
+spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64

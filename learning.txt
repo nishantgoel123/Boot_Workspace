@@ -27,3 +27,19 @@ spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64
 
 need to be add in env varible
 C:\Program Files\MongoDB\Server\3.2\bin;C:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.6\sbin
+
+
+docker --
+
+build once use deply anywhere
+container model
+containerisation 
+docker hub - images (like maven repo)
+
+
+.Docker - file to convert into image in docker 
+FROM frolvlad/alpine-oraclejdk8
+VOLUME /tmp
+ADD  target/springcloud-securedui-0.0.1-SNAPSHOT.jar securedms.jar
+EXPOSE 8090
+ENTRYPOINT ["java","-jar","/securedms.jar"]

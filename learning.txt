@@ -43,3 +43,6 @@ VOLUME /tmp
 ADD  target/springcloud-securedui-0.0.1-SNAPSHOT.jar securedms.jar
 EXPOSE 8090
 ENTRYPOINT ["java","-jar","/securedms.jar"]
+
+https://hub.docker.com/r/nishantgoel123/secureuims/
+

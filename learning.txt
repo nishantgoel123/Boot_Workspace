@@ -24,3 +24,6 @@ mongodb-win32-x86_64-2008plus-ssl-3.2.8-signed
 otp_win64_19.2
 rabbitmq-server-3.6.5
 spring-tool-suite-3.8.3.RELEASE-e4.6.2-win32-x86_64
+
+need to be add in env varible
+C:\Program Files\MongoDB\Server\3.2\bin;C:\Program Files\RabbitMQ Server\rabbitmq_server-3.6.6\sbin
